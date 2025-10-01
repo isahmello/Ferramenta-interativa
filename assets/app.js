@@ -8,12 +8,12 @@ cartao.innerHTML = `
         
                 <div class="cartao__conteudo">
 
-                        <h3>$(categoria)</h3>
+                        <h3>${categoria}</h3>
                         <div class="cartao__conteudo__pergunta">
-                                <p>$(Quem é o homem que teve o poder de andar sobre o mar?)</p>
+                                <p>${Quem é o homem que teve o poder de andar sobre o mar?}</p>
                         </div>
                         <div class="cartao__conteudo__resposta">
-                                <p>$(O nome dele é Jesus, seu nome é poder.)</p>
+                                <p>${O nome dele é Jesus, seu nome é poder.}</p>
                         </div>
                 </div> `
         
