@@ -13,7 +13,7 @@ cartao.innerHTML = `
                                 <p>$(Quem é o homem que teve o poder de andar sobre o mar?)</p>
                         </div>
                         <div class="cartao__conteudo__resposta">
-                                <p>$(O nome dEle é Jeus, seu nome é poder.)</p>
+                                <p>$(O nome dele é Jesus, seu nome é poder.)</p>
                         </div>
                 </div> `
         
